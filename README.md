@@ -5,7 +5,7 @@ SEC-GPT is an AI-powered chatbot designed specifically for Saveetha Engineering 
 ## 🔗 Live Demo
 Try the chatbot here: [SEC-GPT Live Demo](https://sec-gpt-app-hhc8chbzfmfnfwhk.southindia-01.azurewebsites.net/)
 
-![SEC-GPT-Interface](https://github.com/user-attachments/assets/52b10bb1-a395-4f26-b56e-27cd4292e89c))
+![SEC-GPT-Interface](https://github.com/user-attachments/assets/00ba34da-327e-4ce4-bfd3-cf42cd1c2f2f))
 
 ## ✨ Features
 
@@ -31,7 +31,8 @@ Try the chatbot here: [SEC-GPT Live Demo](https://sec-gpt-app-hhc8chbzfmfnfwhk.s
 
 ## 🎯 Key Capabilities
 
-![Features Demo](https://github.com/user-attachments/assets/681862f5-2685-4e79-9416-4584377d75c1)
+![Features Demo](https://github.com/user-attachments/assets/754ca6c6-ebf1-4bd7-a5b1-8d602d0fd284)
+
 
 
 - Admission information
